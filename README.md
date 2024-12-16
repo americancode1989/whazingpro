@@ -55,7 +55,7 @@ apt install git
 cd /root
 ```
 ```bash
-git clone https://github.com/basorastudio/instalador.git whazinginstalador
+git clone https://github.com/americancode1989/whazingpro.git whazinginstalador
 ```
 ```bash
 sudo chmod +x ./whazinginstalador/whazing
